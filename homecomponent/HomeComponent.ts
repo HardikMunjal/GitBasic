@@ -5,7 +5,7 @@ import APP_CONST from '@/constants/AppConst';
 import APP_UTILITIES from "@/utilities/commonFunctions";
 import commonEntry from '@/store/modules/commonEntry';
 
-
+//my changes
 
 @Component
 export default class HomeComponent extends Vue {
