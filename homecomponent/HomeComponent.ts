@@ -38,6 +38,7 @@ export default class HomeComponent extends Vue {
         this.getLmsLinks();
     }
 //cool hi hai
+//fer se cool
     @Watch('getUserDetail', { deep: true })
     checkForRole(data: any) {
         const userRole = data.userRoles[0].roleId;
