@@ -8,6 +8,7 @@ import ProgramList from '@/components/partnerHome/components/programList/Program
     }
 })
 export default class PartnerHome extends Vue{
+    //in partnereee
     private objScreenText: ScreenText = new ScreenText();
     public programsDetail:Array<Object> = [];
     public emptyView: boolean = false;
