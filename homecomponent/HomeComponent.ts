@@ -7,6 +7,9 @@ import commonEntry from '@/store/modules/commonEntry';
 
 //my changes
 
+
+//my changes 22
+
 @Component
 export default class HomeComponent extends Vue {
     private objScreenText: ScreenText = new ScreenText();
