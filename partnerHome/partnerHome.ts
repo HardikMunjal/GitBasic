@@ -7,6 +7,7 @@ import ProgramList from '@/components/partnerHome/components/programList/Program
         'program-list': ProgramList
     }
 })
+//partnerrrr
 export default class PartnerHome extends Vue{
     //in partnereee
     private objScreenText: ScreenText = new ScreenText();
